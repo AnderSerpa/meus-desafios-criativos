@@ -101,3 +101,6 @@ graph TD
 ## 💡 Boas Práticas Implementadas
 * **Tratamento de Exceções:** Configuração recomendada de rotas de erro (`Error Trigger`) para monitorar falhas de API no Google Sheets ou Gmail.
 * **Sanitização de Dados:** O uso do nó `If` impede a poluição da planilha de controle com envios vazios ou e-mails digitados incorretamente.
+
+---
+Desenvolvido com o apoio de automação inteligente no n8n.
